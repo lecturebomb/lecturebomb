@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 백민재 *MINJAE BAEK*
+# r강연범 *MINJAE BAEK*
 
 <p >
     <Strong>🛠 Skill </Strong><br>
 </p>
     <img src="https://img.shields.io/badge/Java-8e3155?style=flat&logo=spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-A9D171?style=flat&logo=SPRINGBOOT&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 </p>
 <br>
 
-![YeonBeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=lecturebomb&show_icons=true&theme=radical)
+![YeonBeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 
 <div>
   
