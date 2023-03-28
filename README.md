@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# r강연범 *MINJAE BAEK*
+# 강연범 *YB KANG*
 
 <p >
     <Strong>🛠 Skill </Strong><br>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-![YeonBeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![YeonBeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=lecturebomb&show_icons=true&theme=radical)
 
 <div>
   
